@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "80b9eb69-6032-474e-a750-e92c6c487f43++9075",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "80b9eb69-6032-474e-a750-e92c6c487f43++9075" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "80b9eb69-6032-474e-a750-e92c6c487f43++9075" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7B0CE888-DEBA-4AC1-B20B-C64235CBBB0A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "80b9eb69-6032-474e-a750-e92c6c487f43++9075" : "Meou\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Meou",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Meou.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.1.241\/svn\/dev_meou_iPhone",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "80b9eb69-6032-474e-a750-e92c6c487f43++9075"
+    }
+  ]
+}
